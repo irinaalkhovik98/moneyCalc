@@ -1,1 +1,1 @@
-# moneyCalc
+Калькулятор расходов на JavaScript
